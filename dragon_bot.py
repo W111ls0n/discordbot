@@ -87,4 +87,4 @@ async def on_message(message):
 
 
 
-@client.run('ODMxOTg0OTg4MjczNzcwNTQ3.YHdMZg.X4k26REEXl10uqo5dRFSuazr3Q8')
+@client.run('insert bot key here')
